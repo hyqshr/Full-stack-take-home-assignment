@@ -73,20 +73,12 @@ By Yiqiu Huang
 
 
 
-Middleware:
+Backend Middleware:
 
 - [djangorestframework](https://www.django-rest-framework.org/): Better REST api development 
 - [django-cors-headers](https://pypi.org/project/django-cors-headers/): A Django App that adds Cross-Origin Resource Sharing (CORS) headers to responses.
 
-
-
-#### frontend
-
-```
-npm install
-```
-
-Middleware:
+frontend Middleware
 
 - react-router-dom
 - [axios](https://www.axios.com/): REST request
