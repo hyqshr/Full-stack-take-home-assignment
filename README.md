@@ -3,7 +3,7 @@
 **This is a full-stack take home assignment @instawork**
 
 ```
-Django + React + SQLite
+Django + React + SQLite with REST api
 By Yiqiu Huang
 ```
 
@@ -29,9 +29,49 @@ By Yiqiu Huang
    source .env/bin/activate
    ```
 
+3. Start backend server
+
+   - Enter the folder
+
+   ```
+   cd backend
+   ```
+
+   - Install requirementwith virtual env
+
    ```
    pip install -r requirements.txt
    ```
+
+   -  Start server 
+
+   ```
+   python manage.py runserver
+   ```
+
+4. Start frontend server
+
+   - Enter frontend folder
+
+   ```
+   cd frontend
+   ```
+
+   - Install node modules
+
+   ```
+   npm i
+   ```
+
+   - Start frontend server
+
+   ```
+   npm start
+   ```
+
+   
+
+
 
 Middleware:
 
